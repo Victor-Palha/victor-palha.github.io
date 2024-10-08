@@ -7,7 +7,7 @@ tags: [personal]
 ---
 
 # Hello There
-My name is Victor Palha and i'm a software engineer. You maybe know me from my work on [GitHub](https://github.com/Victor-Palha) or [LinkedIn](https://www.linkedin.com/in/victor-palha/). Anyway, this is my personal blog where i will share my thoughts and experiences about software development and other topics. I hope you enjoy it! but if you don't, well... i don't care.
+My name is Victor Palha and i'm a software engineer. You maybe know me from my work on [GitHub](https://github.com/Victor-Palha) or [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-palha/). Anyway, this is my personal blog where i will share my thoughts and experiences about software development and other topics. I hope you enjoy it! but if you don't, well... i don't care.
 
 ## About Me
 I'm a software engineer with a passion for technology and software development. I have experience in a wide range of technologies and programming languages, including Python, TypeScript, and Elixir. I'm always looking for new challenges and opportunities to learn and grow as a developer. I started my career as a software engineer in 2020 when i started college and i have been working in the industry ever since. I have worked on a variety of projects, including web applications, mobile apps, and backend services. I'm currently working as a freelance developer, but i'm always open to new opportunities.
