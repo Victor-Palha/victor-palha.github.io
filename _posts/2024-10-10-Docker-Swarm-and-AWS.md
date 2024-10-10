@@ -1,7 +1,7 @@
 ---
 layout:
 title: "The Docker Guide - Docker Swarm and AWS"
-date: 2024-10-08 17:18:20 -0000
+date: 2024-10-09 10:10:20 -0000
 categories: [Documentation]
 tags: [guide, docker, swarm, aws, devops]
 ---
