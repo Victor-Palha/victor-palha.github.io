@@ -1,7 +1,7 @@
 ---
 layout:
 title: "The Beginner's Guide of GIT - Branches, Repository Administration, Inspection and Commit Improvement"
-date: 2024-10-16 09:04:20 -0000
+date: 2024-10-16 04:04:20 -0000
 categories: [Documentation]
 tags: [guide, git]
 ---
