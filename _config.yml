@@ -16,10 +16,14 @@ timezone: America/Belem
 
 title: Victor Palha Blog # the main title
 
-tagline: Just the IT Boy sharing his knowledge # it will display as the subtitle
+tagline: Um detonado técnico pra quem tem só dois neurônios (e muita vontade de aprender) # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
-  I needed a place to share my knowledge and experiences, so I created this blog. Here you will find articles on various topics related to IT, programming, and technology.
+description:  >-
+  Fala aí! Meu nome é João Victor Ferreira Palha, sou engenheiro de software freelancer e esse blog é meu espaço pra compartilhar conhecimento de forma prática, direta e sem enrolação.
+
+  Aqui você vai encontrar artigos sobre programação, tecnologia e tudo que pode te ajudar a ser um dev melhor — sem papo furado, sem blá blá blá. Se você curte conteúdo técnico de verdade, com dicas que funcionam no mundo real, tá no lugar certo.
+
+  Quer saber mais sobre mim? Vai no meu LinkedIn ou algo assim, porque aqui o foco é outro: aprender, aplicar e evoluir.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.

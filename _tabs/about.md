@@ -7,5 +7,10 @@ order: 4
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
 
-My name is João Victor Ferreira Palha and i'm a software engineer with a passion for technology and software development. I have experience in a wide range of technologies and programming languages, including Python, TypeScript, and Elixir. I'm always looking for new challenges and opportunities to learn and grow as a developer. 
-I started my career as a software engineer in 2020 when i started college and i have been working in the industry ever since. I have worked on a variety of projects, including web applications, mobile apps, and backend services. I'm currently working as a freelance developer, but i'm always open to new opportunities.
+Hello There! (General Kenobi!)
+
+Meu nome é João Victor Ferreira Palha e sou um engenheiro de software freelancer! Eu poderia falar sobre como eu amo tecnologia e desenvolvimento mas... foda-se isso!
+
+Eu estou aqui para compartilhar meu conhecimento e ajudar você que tem 2 neurônios e quer conceitos novos e coisas práticas para aprender e aplicar no seu dia a dia, você pode pensar nesse blog como um detonado de tecnologia, onde você vai encontrar dicas e truques para melhorar sua vida como desenvolvedor.
+
+Dito isso, se você quer saber mais sobre mim, vai ver meu linkedin ou alguma porra assim, porque aqui a unica coisa que você vai encontrar é conteúdo técnico e prático, sem enrolação e sem blá blá blá.
