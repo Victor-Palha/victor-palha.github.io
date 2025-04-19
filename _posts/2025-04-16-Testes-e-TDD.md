@@ -1,9 +1,9 @@
 ---
 layout:
 title: "Testes, TDD e por que você deveria aprender essa merda"
-description: "Aprende o que é teste, como funciona e porque você deveria usar isso no seu dia a dia, ou não... Não sou teu pai pra ficar te obrigando a fazer nada."
+description: "Aprenda o que é teste, como funciona e porque você deveria usar isso no seu dia a dia, ou não... Não sou teu pai pra ficar te obrigando a fazer nada."
 date: 2025-04-17 16:18:20 -0000
-categories: [Elixir]
+categories: [Elixir, Testes]
 tags: [TDD, Testes]
 ---
 
