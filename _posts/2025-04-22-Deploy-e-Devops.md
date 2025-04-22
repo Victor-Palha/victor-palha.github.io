@@ -10,7 +10,7 @@ tags: [CI/CD, Docker]
 # _"Se funcionar em produção, tá certo"_
 Essa frase aí é o equivalente de dizer: "Se não explodiu, pode acender outro fósforo." E se você vive assim, sinto te dizer, mas você é o terror dos times de suporte.
 
-Mas calma, ninguém nasce sabendo. Eu tô aqui pra te ensinar o que é DevOps, o que é Deploy e como parar de ser um agente do caos digital.
+Mas calma, ninguém nasce sabendo. Eu tô aqui pra te ensinar o que é DevOps, o que é Deploy e como parar de ser um agente do caos digital. Mas antes de tudo! **pega um café, um cigarro e desliga essa música**.
 
 # O que é Deploy?
 Deploy (ou implantação, se você for purista do português) é o ato de **colocar sua aplicação no ar**. Simples assim. É o momento mágico onde todo o seu código maravilhoso (ou nem tanto) vai pra um servidor, e os usuários finalmente vão poder dizer: “essa merda não funciona”.
